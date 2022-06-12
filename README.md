@@ -17,3 +17,17 @@
 - No próximo avançaremos mais em nossos conhecimentos de Javascript.
 
 ![Print da introdução](img/print/print1.png)
+
+### Variáveis e Operadores
+
+Chegamos ao fim de mais um capítulo, e neste aqui utilizamos um pouco da lógica de programação e das funções do Javascript para validar nosso primeiro paciente.
+
+Neste capítulo vimos:
+
+ - O operador lógico de OU ( || )
+
+ - O operador lógico de E ( && )
+
+ - Busca de elementos
+
+ ![Print das Variaveis e Operadores](img/print/print2.png)
