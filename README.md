@@ -47,3 +47,5 @@ Neste capítulo vimos:
 - A boa prática de não alterar o estilo diretamente no Javascript e sim modificar as classes dos elementos com a propriedade .classList
 
  ![Print Arrays, Loops e Estilos](img/print/print3.png)
+
+ ### 04. Eventos, Formulários e Criando Elementos 
