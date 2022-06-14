@@ -31,3 +31,19 @@ Neste capítulo vimos:
  - Busca de elementos
 
  ![Print das Variaveis e Operadores](img/print/print2.png)
+
+ ### 03. Arrays, Loop e Estilos
+
+ Neste capítulo aprendemos a lidar uma coleção de elementos do HTML e vimos:
+
+- Como selecionar diversos elementos com a função querySelectorAll()
+
+- Relembramos um método clássico de iteração com o for
+
+- Vimos como manipular estilos com a propriedade .style
+
+- Vimos que devemos utilizar camelCase quando queremos modificar uma propriedade que tenha duas palavras, como a background-color
+
+- A boa prática de não alterar o estilo diretamente no Javascript e sim modificar as classes dos elementos com a propriedade .classList
+
+ ![Print Arrays, Loops e Estilos](img/print/print3.png)
