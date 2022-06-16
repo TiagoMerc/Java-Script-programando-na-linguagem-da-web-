@@ -64,3 +64,19 @@ Que a função criadora de elementos é **.createElement()**
 - A adicionar elementos na página e dentro de outros elementos com a função **appendChild()**
 
  ![Eventos, Formulários e Criando Elementos](img/print/print4.png)
+
+ ### 05. Boas Práticas com JavaScript 
+
+Neste capítulo vimos
+
+- Dividir o código, separando por funcionalidades do sistema
+
+- Os objetos em Javascript
+
+- A quebrar funções grandes em funções menores ,com cada uma com sua responsabilidade
+
+- A função **form.reset()** para limpar o formulário
+
+ ![Boas Práticas com JavaScript](img/print/print5.png)
+
+ 
