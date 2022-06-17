@@ -79,4 +79,20 @@ Neste capítulo vimos
 
  ![Boas Práticas com JavaScript](img/print/print5.png)
 
- 
+ ### 06. Validação de Formulários
+
+Neste capítulo vimos:
+
+- Mais organização de código, exportando as funções de validação.
+
+- O operador de negação NOT (!)
+
+- Como validar um formulário
+
+- A função **push** para colocar elementos dentro de um array
+
+- A propriedade **innerHTML** dos elementos, que foi usada para apagar os itens da **<ul>**
+
+- O método forEach para percorrer arrays
+
+ ![Validação de Formulários](img/print/print6.png)
