@@ -1,5 +1,9 @@
 # Java Script: programando na linguagem da web 
 
+GitHub Pages:
+[Clique aqui!](https://tiagomerc.github.io/Java-Script-programando-na-linguagem-da-web-/)
+
+
 ### Introdução
 
 **Apesar deste capítulo inicial ter sido curto, aprendemos pontos importantes como:**
@@ -95,4 +99,4 @@ Neste capítulo vimos:
 
 - O método forEach para percorrer arrays
 
- ![Validação de Formulários](img/print/print6.png)
+![Validação de Formulários](img/print/print6.png)
