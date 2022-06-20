@@ -128,3 +128,29 @@ Neste capítulo aprendemos:
 - Como buscar por apenas um pedaço de uma palavra com as Expressões Regulares em Javascript
 
 ![Filtrando pacientes](img/print/print8.png)
+
+### 09. Ajax Buscando pacientes com AJAX
+
+Neste capítulo aprendemos:
+
+- Como fazer uma requisição assíncrona com o Javascript
+
+- O objeto **XMLHttpRequest**
+
+- Como configurar e enviar uma requisição
+
+- O evento de **load**
+
+- O que é a técnica AJAX.
+
+- O formato JSON
+
+- Como converter JSON para um objeto Javascript com a função **JSON.parse()**
+
+- Como lidar com erros durante o AJAX
+
+![Ajax Buscando pacientes com AJAX](img/print/print9.png)
+
+Com **Erro** na requisição ou link quebrado 
+
+![Ajax Buscando pacientes com AJAX](img/print/print10.png)
