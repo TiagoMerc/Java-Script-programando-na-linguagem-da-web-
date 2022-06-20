@@ -100,3 +100,17 @@ Neste capítulo vimos:
 - O método forEach para percorrer arrays
 
 ![Validação de Formulários](img/print/print6.png)
+
+### 07. Remoção, Delegação e Animação
+
+Neste capítulo aprendemos:
+
+- O novo evento de **dblclick**
+
+- Como os eventos propagam atráves da página
+
+- A delegação de eventos
+
+- Como animar uma remoção com o **setTimeout**
+
+![Remoção, Delegação e Animação](img/print/print7.png)
