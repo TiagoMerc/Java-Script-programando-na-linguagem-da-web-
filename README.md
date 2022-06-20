@@ -114,3 +114,17 @@ Neste capítulo aprendemos:
 - Como animar uma remoção com o **setTimeout**
 
 ![Remoção, Delegação e Animação](img/print/print7.png)
+
+### 08.Filtrando pacientes
+
+Neste capítulo aprendemos:
+
+- O novo evento de **input**
+
+- O truque de deixar invisível adicionando uma classe com **display:none**
+
+- Como realizar uma busca, escondendo todos os elementos e mostrando apenas aqueles que nos interessam
+
+- Como buscar por apenas um pedaço de uma palavra com as Expressões Regulares em Javascript
+
+![Filtrando pacientes](img/print/print8.png)
